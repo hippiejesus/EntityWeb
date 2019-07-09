@@ -1,1 +1,26 @@
+arch--item 
+{
+! a:+=durability|0
+! a:+=hardness|0
+! a:+=size|0
+! a:+=dimensions|(0,0,0)
+! d:+=name|''
+! d:+=appearance|'' 
+}
 
+arch--thought 
+{
+! a:+=fortitude|0
+! a:+=immediacy|0
+! d:+=description|'' 
+}
+
+arch--place 
+{
+! a:+=size|0
+! a:+=dimensions|(0,0,0)
+! a:+=biome|None
+! d:+=name|''
+! d:+=ambience|''
+! d:+=appearance|''
+}
